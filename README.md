@@ -1,2 +1,2 @@
 # bootstrapTest
-a website using bootstrap
+a website using bootstrap framework
